@@ -1,0 +1,1 @@
+mail._domainkey.aetechsolutions.net aetechsolutions.net:mail:/etc/opendkim/keys/aetechsolutions.net/mail.private
